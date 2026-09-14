@@ -7,4 +7,5 @@ int main()
     return 2;
     printf("hworld");
     return 1;
+    return 3;
 }
