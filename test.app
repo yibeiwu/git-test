@@ -8,5 +8,4 @@ int main()
     printf("hworld");
     return 1;
     return 3;
-    reutrn 4;
 }
